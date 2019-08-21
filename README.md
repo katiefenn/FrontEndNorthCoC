@@ -8,7 +8,7 @@ All attendees, speakers, sponsors and volunteers at our event are required to ag
 
 ### Need Help?
 
-Contact us at info@frontendnorth.com, on Twitter [@frontendnorth](https://twitter.com/frontendnorth) or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
+Contact us at info@frontendnorth.com, on Twitter [@frontendnorth](https://twitter.com/frontendnorth) or talk to one of the event organisers (we'll introduce ourselves at the start of the conference).
 
 ### The Quick Version
 

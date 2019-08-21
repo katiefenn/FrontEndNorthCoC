@@ -1,6 +1,6 @@
-# Front End Sheffield
+# Front End North
 
-**Front End Sheffield** is a monthly event. See [our Meetup page](https://www.meetup.com/Front-End-Sheffield) for details.
+**Front End North** is a conference. See [our website](https://frontendnorth.com) for details.
 
 ## Code of Conduct
 
@@ -8,7 +8,7 @@ All attendees, speakers, sponsors and volunteers at our event are required to ag
 
 ### Need Help?
 
-Contact us at frontendsheff@gmail.com, on Twitter [@FrontEndSheff](http://www.twitter.com/frontendsheff) or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
+Contact us at info@frontendnorth.com, on Twitter [@frontendnorth](https://twitter.com/frontendnorth) or talk to one of the event organisers (we'll introduce ourselves at the start of each event).
 
 ### The Quick Version
 

@@ -30,6 +30,6 @@ Event staff will be happy to assist those experiencing harassment to feel safe f
 
 We expect participants to follow these rules at event venues as well as at any social events related to the event.
 
-We also would appreciate it if any questions are left until the end of the talk during the Q&A segment (if the speaker is happy to do one) or during the social that follows the event. The exception to this rule is if a speaker welcomes such interuptions - they will inform attendees if this is the case at the start of their talk.
+We also would appreciate it if any questions are left until the end of the talk during the Q&A segment (if the speaker is happy to do one) or during the social that follows the event. The exception to this rule is if a speaker welcomes such interruptions - they will inform attendees if this is the case at the start of their talk.
 
 This Code of Conduct is adapted from http://confcodeofconduct.com/
